@@ -1,0 +1,23 @@
+.navbar{
+    box-shadow: 0 3px 6px #3291a5;
+}
+
+.navlink{
+    font-size: 20px;
+}
+
+header{
+    min-height: 100vh;
+    background-image:linear-gradient(rgb(86,164,180,.6),rgb(86,164,180,.6)), url(../images/mountains.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.author img{
+    margin-top: -40px;
+}
+
+.contact{
+    background-color: #f4f4f4;
+}
+
